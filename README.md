@@ -1,9 +1,9 @@
 R-Visualization with Shiny
 ==============================
 
-| **Name**  | [Yi He] |
+| **Name**  | Yi He |
 |----------:|:------------|
-| **Email** | [yihe87@gmail.com |
+| **Email** | yihe87@gmail.com |
 
 ## About Me ##
 
