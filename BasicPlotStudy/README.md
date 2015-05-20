@@ -1,9 +1,6 @@
-Homework 1: Basic Charts
+Basic Charts
 ==============================
 
-| **Name**  | Yi He  |
-|----------:|:-------------|
-| **Email** | yhe27@dons.usfca.edu |
 
 ## Instructions ##
 
@@ -18,7 +15,7 @@ The following data set must be imported prior to running this code:
 
 To run this code, please enter the following commands in R:
 ```
-source_url(https://raw.githubusercontent.com/heyi87/msan622/master/homework1/YiHW1.R)
+source_url(https://raw.githubusercontent.com/heyi87/R_Visualization/edit/master/BasicPlotStudy/YiHW1.R)
 ```
 
 
