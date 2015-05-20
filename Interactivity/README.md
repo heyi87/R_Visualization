@@ -1,9 +1,5 @@
-Homework 2: Interactivity
+Interactivity
 ==============================
-
-| **Name**  | Yi He  |
-|----------:|:-------------|
-| **Email** | yhe27@dons.usfca.edu |
 
 ## Instructions ##
 
