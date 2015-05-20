@@ -1,9 +1,5 @@
-Homework 5: Time Series Visualization
+Time Series Visualization
 ==============================
-
-| **Name**  | Yi He  |
-|----------:|:-------------|
-| **Email** | yhe27@dons.usfca.edu |
 
 ## Instructions ##
 
@@ -14,7 +10,7 @@ In order to run my shiny application, please install:
 `scales`
 `data(Seatbelts)`
 To run the code please type below into your R-Browser:
-`shiny::runGitHub("msan622", "heyi87", subdir = "homework5")`
+`shiny::runGitHub("R_Visualization", "heyi87", subdir = "Time Series Visualization")`
 
 ## Discussion ##
 
