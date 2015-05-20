@@ -1,17 +1,13 @@
 Project: Wine Quality
 ==============================
 
-| **Name**  | Yi He  |
-|----------:|:-------------|
-| **Email** | yhe27@dons.usfca.edu |
-
 ## Instructions ##
 
 In order to run my shiny application, please install:
 `shiny``ggplot2``scales``grid``GGally``randomForest``gridExtra`
 `MASS``klaR``cluster`
 To run the code please type below into your R-Browser:
-`shiny::runGitHub("msan622", "heyi87", subdir = "Project")`
+`shiny::runGitHub("R_Visualization", "heyi87", subdir = "WineStudy")`
 
 ## Discussion ##
 
