@@ -1,9 +1,5 @@
-Homework [#]: [HOMEWORK NAME]
+Interactivity with Advance Plots
 ==============================
-
-| **Name**  | Yi  |
-|----------:|:-------------|
-| **Email** | yhe27@dons.usfca.edu |
 
 ## Instructions ##
 
@@ -11,7 +7,7 @@ In order to run my Homework 3 Interactivty, please install 'ggplot2', 'shiny', '
 
 library(shiny)
 
-shiny::runGitHub("msan622", "heyi87", subdir = "homework3")
+shiny::runGitHub("R_Visualization", "heyi87", subdir = "InteractivityWithAdvancePlots")
 
 ## Discussion ##
 
