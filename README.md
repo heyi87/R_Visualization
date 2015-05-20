@@ -1,10 +1,10 @@
-MSAN 622 Data Visualization
+R-Visualization with Shiny
 ==============================
 
-| **Name**  | [YOUR NAME] |
+| **Name**  | [Yi He] |
 |----------:|:------------|
-| **Email** | [USERNAME]@dons.usfca.edu |
+| **Email** | [yihe87@gmail.com |
 
 ## About Me ##
 
-[BIO: Fill in a brief bio about yourself here. Keep it between 1 and 3 sentences.]
+Please enjoy several visualization and explanation using R + Shiny
