@@ -13,10 +13,6 @@ The following data set must be imported prior to running this code:
 -'movies'
 -'EuStockMarkets'
 
-To run this code, please enter the following commands in R:
-```
-shiny::runGitHub("R_Visualization", "heyi87", subdir = "BasicPlotStudy")
-```
 
 
 ## Discussion ##
