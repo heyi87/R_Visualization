@@ -15,7 +15,7 @@ The following data set must be imported prior to running this code:
 
 To run this code, please enter the following commands in R:
 ```
-source_url(https://raw.githubusercontent.com/heyi87/R_Visualization/edit/master/BasicPlotStudy/YiHW1.R)
+shiny::runGitHub("R_Visualization", "heyi87", subdir = "BasicPlotStudy")
 ```
 
 
