@@ -15,7 +15,7 @@ To run this code, please enter the following commands in R:
 
 ```
 library(shiny)
-shiny::runGitHub('msan622', 'heyi87', subdir='homework2')
+shiny::runGitHub('R_Visualization', 'heyi87', subdir='Interactivity')
 ```
 
 This will start the `shiny` app. See below for details on how to interact with the visualization.
