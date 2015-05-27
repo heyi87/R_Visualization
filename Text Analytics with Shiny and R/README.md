@@ -8,10 +8,6 @@ The following packages must be installed prior to running this R script:
 tm,SnowBallC, wordcloud, ggplot2, reshape, plyr, scales
 ```
 
-To run this code, please enter the following commands in R:
-```
-source_url("https://raw.githubusercontent.com/heyi87/R_Visualization/Text Analytics with Shiny and R/YiHW4.R")
-```
 You would need to download all of the data in Homework 4. Please create a folder call data and put all four text files into the data folder. The text files contain:
 BleakHouse.txt
 DavidCopperfield.txt
